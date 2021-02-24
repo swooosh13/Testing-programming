@@ -6,6 +6,6 @@ public class Main {
     int y = 5;
   }
   static int getFunc() {
-    return 100;
+    return 50;
   }
 }
